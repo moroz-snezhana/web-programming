@@ -38,3 +38,6 @@ body {
     text-align: center;
     font-size: 20px;
 }
+#snow {
+    max-width: 300px;
+}
