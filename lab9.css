@@ -27,3 +27,10 @@ body {
     left: 0;
     right: 0;
 }
+#coords{
+    width: 500px;
+    height: 500px;
+    background-color: #800000;
+    color: #FFF8DC;
+    text-align: center;
+}
