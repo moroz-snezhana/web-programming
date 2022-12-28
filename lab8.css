@@ -12,6 +12,7 @@ body {
     height: 80px;
     line-height: 80px;
     padding-left: 30px;
+    display: flex;
 }
 .footer {
     color: #888;
@@ -27,7 +28,7 @@ body {
     left: 0;
     right: 0;
 }
-#today, #result {
+#today, #result, #time {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 30px;
     padding-left: 30px;
