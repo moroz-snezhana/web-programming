@@ -4,6 +4,7 @@ body {
     background-color: #FFF8DC;
     height: 100%;
     width: 100%;
+    padding-bottom: 60px;
 }
 .header {
     background: black;
@@ -33,4 +34,8 @@ body {
     background-color: #800000;
     color: #FFF8DC;
     text-align: center;
+}
+#output{
+    color: #8B4513;
+    font-size: 20px;
 }
